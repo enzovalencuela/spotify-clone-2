@@ -1,8 +1,8 @@
 # Spotify Clone
 
-![Preview do Projeto](https://1drv.ms/i/c/10827a64be25b620/EYRlaBiWVG9NvR361Hq4Fy8BgMTEz0YY2E_llppVz18Tsg)
-
 Este projeto é um clone da página principal do Spotify, desenvolvido utilizando React. O objetivo é recriar a interface principal do Spotify com componentes reutilizáveis e estilização moderna.
+
+![Preview do Projeto](https://1drv.ms/i/c/10827a64be25b620/EYRlaBiWVG9NvR361Hq4Fy8BgMTEz0YY2E_llppVz18Tsg)
 
 ## Tecnologias Utilizadas
 
